@@ -1,0 +1,367 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-29264594-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  <META http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="imagetoolbar" content="no" />
+  <title>Course Descriptions :: St. Louis Community College</title>
+  <link href="../CSS/Template/Styles.css" rel="stylesheet" type="text/css" />
+  <link href="../CSS/Template/Layout.css" rel="stylesheet" type="text/css" />
+  <!--[if IE]>
+  <link href="../CSS/Template/IE.css" rel="stylesheet" type="text/css" />
+   <![endif]-->
+  <!--[if lt IE 7]>
+  <style type="text/css">#mainBody {height:500px;}</style>
+  <![endif]-->
+
+  <link href="../CSS/Template/Print.css" rel="stylesheet" type="text/css" media="print"/>
+  <script type="text/javascript" language="javascript" src="../JS/Template/jquery.min.js"></script>
+  <script type="text/javascript" language="javascript" src="../JS/Template/Common.js"></script>
+  
+  <meta name="Author" content="St. Louis Community College" />
+  <meta name="Description" content="St. Louis Community College expands minds and changes lives every day. We create accessible, dynamic learning environments focused on the needs of our diverse communities." />
+  <meta name="Keywords" content="" />
+<!--	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>  -->
+	
+
+
+</head>
+
+<body><a name="na"></a><a name="noop"></a><div id="topBar"><a href="http://assistive.usablenet.com/tt/referrer"><img src="../Images/Template/clear.gif" height="0" width="0" alt="Text Only"/></a> <a href="#skipnav"><img src="../Images/Template/clear.gif" height="0" width="0" class="skipnav" alt="Skip to content"/></a></div>
+  
+  <div id="pageOuter">
+    
+    <div id="pageInner">
+      
+  <!-- Header -->
+  <a href="#skipheader" title="Skip header navigation."><img src="../Images/Template/clear.gif" height="0" width="0" class="skipnav"
+	alt="Skip header navigation."/></a><div id="header" class="headerSub">
+	<div class="logoArea"><a href="http://www.stlcc.edu/" title="St. Louis Community College Home"><img id="imgLogo" src="http://www.stlcc.edu/Images/Home/Header/stlccLogo.gif"
+		alt="St. Louis Community College &bull; One College. &bull; Lifelong Opportunities."
+		width="240" height="95" /></a></div>
+	<div class="navArea">
+	<div id="my-stlcc-tab"><a href="http://www.stlcc.edu/MySTLCC/"><span>My&nbsp;STLCC</span></a><div>&nbsp;</div></div>
+	<form name="search" method="get" action="http://www.stlcc.edu/scripts/search/">
+  <label class="searchLabel" for="q">Search STLCC.edu</label>
+  <input type="text" name="q" id="q" maxlength="255" class="searchBox" />
+  <input type="image" src="../Images/Template/btnGo.gif" alt="Go" class="btnSearch" height="21" width="21" />
+</form>
+	<div class="headerLinks">
+	<ul>
+		<li><a href="http://www.stlcc.edu/About/">About STLCC</a></li>
+		<li><a href="http://www.stlcc.edu/Campuses/">Locations</a>
+			<ul id="location-links">
+				<li><a href="http://www.stlcc.edu/"><span>STLCC Home</span></a></li>
+				<li><a href="../Campuses/Centers_of_Excellence/Center_for_Plant_and_Life_Sciences/Index.html"><span>Bio-Research and Development Growth (BRDG) Park</span></a></li>
+				<li><a href="http://www.stlcc.edu/FV/Center_for_Workforce_Innovation/"><span>Center for Workforce Innovation</span></a></li>
+				<li><a href="http://www.stlcc.edu/CorporateCollege/"><span>Corporate College</span></a></li>
+				<li><a href="http://www.stlcc.edu/FV/"><span>Florissant Valley Campus</span></a></li>
+				<li><a href="http://www.stlcc.edu/FP/"><span>Forest Park Campus</span></a></li>
+				<li><a href="http://www.stlcc.edu/Campuses/Cosand_Center/"><span>Joseph P. Cosand Center</span></a></li>
+				<li><a href="http://www.stlcc.edu/MC/"><span>Meramec Campus</span></a></li>
+				<li><a href="http://www.stlcc.edu/Campuses/Education_Centers/South_County_Education_and_University_Center.html"><span>South County Education and University Center</span></a></li>
+				<li><a href="http://www.stlcc.edu/WW/"><span>Wildwood Campus</span></a></li>
+				<li><a href="http://www.stlcc.edu/Campuses/Education_Centers/William%20J.%20Harrison%20Education%20Center.html"><span>William J. Harrison Education Center</span></a></li>
+			</ul>
+		</li>
+		<li><a href="http://classes.stlcc.edu/EmployeeDirectory/default.asp">Directory</a></li>
+		<li><a href="http://calendar.stlcc.edu">Calendars</a></li>
+		<li><a href="http://www.stlcc.edu/A-Z_Index/">A-Z Index</a></li>
+		<li><a href="http://www.stlcc.edu/Newsroom/">Newsroom</a></li>
+		<li><a href="#noop" id="quick-links-anchor"><span>Quick Links</span></a>
+			<ul id="quick-links">
+				<li><a href="http://www.stlcc.edu/Blackboard/"><span>Blackboard</span></a></li>
+				<li><a href="http://www.stlcc.edu/SelfService/"><span>Banner Self-Service</span></a></li>
+				<li><a href="http://www.stlcc.edu/Studentemail/"><span>Student E-mail</span></a></li>
+				<li><a href="https://mail.stlcc.edu/"><span>Faculty & Staff Web Mail</span></a></li>
+				<li><a href="http://classes.stlcc.edu/ClassSchedule/"><span>Class Schedule</span></a></li>
+				<li><a href="http://catalog.stlcc.edu/"><span>Course Catalog</span></a></li>
+				<li><a href="http://www.stlcc.edu/Admissions/Register_for_Classes/"><span>Registration</span></a></li>
+				<li><a href="http://www.stlcc.edu/Admissions/Prepare_for_the_Semester/STLCC_OneCard.html"><span>STLCC OneCard</span></a></li>
+				<li><a href="http://www.stlcc.edu/Admissions/Financial_Aid/"><span>Financial Aid</span></a></li>
+				<li><a href="http://www.stlcc.edu/Admissions/Tuition_and_Ways_to_Pay/payment_plan.html"><span>E-Cashier Payment Plan</span></a></li>
+				<li><a href="http://www.stlcc.edu/Libraries/"><span>Libraries</span></a></li>
+				<li><a href="http://www.stlcc.edu/Student_Resources/Bookstores.html"><span>Bookstore</span></a></li>
+				<li><a href="http://calendar.stlcc.edu/default.aspx?type=&view=Grid&category=1-9&range=currentmonth"><span>Academic Calendar</span></a></li>
+			</ul>
+		</li>
+	</ul>
+</div>
+</div>
+
+</div>
+  
+  <!-- Main nav -->
+  <ul id="mainNavBar">
+	<li style="width:105px"><a class="bg" href="http://www.stlcc.edu/Admissions/">Enroll Now</a>
+		<ul style="width: 241px;">
+			<!--[if lte IE 6.5]><iframe src="../Blank.html"></iframe><![endif]-->
+			<li><a href="http://www.stlcc.edu/Admissions/Get_Started/"><span>Get Started</span></a></li>
+			<li><a href="http://www.stlcc.edu/Admissions/Apply_to_STLCC/"><span>Apply to STLCC</span></a></li>
+			<li><a href="http://www.stlcc.edu/Admissions/Get_Connected/"><span>Get Connected</span></a></li>
+			<li><a href="http://www.stlcc.edu/Admissions/Financial_Aid/"><span>Financial Aid</span></a></li>
+			<li><a href="http://www.stlcc.edu/Admissions/Take_a_Placement_Test/"><span>Take a Placement Test</span></a></li>
+			<li><a href="http://www.stlcc.edu/Admissions/Develop_an_Academic_Plan/"><span>Develop an Academic Plan</span></a></li>
+			<li><a href="http://www.stlcc.edu/Admissions/Register_for_Classes/"><span>Register for Classes</span></a></li>
+			<li><a href="http://www.stlcc.edu/Admissions/Tuition_and_Ways_to_Pay/"><span>Tuition and Fees</span></a></li>
+			<li><a href="http://www.stlcc.edu/Admissions/Prepare_for_the_Semester/"><span>Prepare for the Semester</span></a></li>
+	</ul>
+	</li>
+  <li style="width:98px"><a class="bg" href="http://www.stlcc.edu/Programs/">Programs</a>
+    <ul style="width: 231px;">
+<!--[if lte IE 6.5]><iframe src="../Blank.html"></iframe><![endif]-->
+	  <li><a href="http://www.stlcc.edu/Programs/Transfer-Degrees/"><span>All Degrees and Certificates</span></a></li>
+	  <li><a href="http://www.stlcc.edu/Programs/Transfer-Degrees/index.html"><span>Academic Degrees</a></span></li>
+	  <!-- Remarking this out because it is not currently a major heading of the right hand navigation <li><a href="http://www.stlcc.edu/Programs/Transfer-Degrees/Transfer/"><span>Transfer Programs</span></a></li>-->
+      <li><a href="http://www.stlcc.edu/Programs/Career_and_Technical_Education/"><span>Career &amp; Technical Education</span></a></li>
+	  <li><span>-----------------</span></li>
+      <li><a href="http://www.stlcc.edu/Programs/Accelerated_Degree_Options/"><span>Accelerated Programs</span></a></li>
+      <li><a href="http://www.stlcc.edu/Programs/Study_Abroad/"><span>Study Abroad</span></a></li>
+      <li><a href="http://cte.stlcc.edu/computer-networking/"><span>CISCO Academy</span></a></li>
+      <li><a href="http://www.stlcc.edu/Programs/Honors_Program/"><span>Honors Program</span></a></li>
+      <li><a href="http://www.stlcc.edu/Programs/A_Plus_Program/"><span>A+ Program</span></a></li>
+      <li><a href="http://www.stlcc.edu/Programs/ESL/"><span>English as a Second Language (ESL)</span></a></li>
+      <li><a href="http://www.stlcc.edu/Distance_Learning/"><span>Online Learning</span></a></li>
+      <li class="last"><a href="http://www.stlcc.edu/Programs/Global_Education/"><span>Global Education</span></a></li>
+    </ul>
+  </li>
+  <li style="width:165px"><a class="bg" href="http://www.stlcc.edu/Continuing-Education/">Continuing Education</a>
+    <ul style="width: 219px;">
+<!--[if lte IE 6.5]><iframe src="../Blank.html"></iframe><![endif]-->
+	  <li><a href="http://www.stlcc.edu/Continuing-Education/Classes/"><span>Explore our classes</span></a></li>
+	  <li><a href="http://www.stlcc.edu/Continuing-Education/Professional-Development/"><span>Professional Development</span></a></li>
+	  <li><a href="http://www.stlcc.edu/Continuing-Education/Personal-Enrichment/"><span>Personal Enrichment</span></a></li>
+      <li><a href="http://www.stlcc.edu/Continuing-Education/Online-Courses/"><span>Online Courses</span></a></li>
+      <li><a href="http://www.stlcc.edu/Continuing-Education/Registration-Options.html"><span>Registration Options</span></a></li>
+      <li><a href="http://www.stlcc.edu/Continuing-Education/Locations.html"><span>Locations</span></a></li>
+      <li><a href="http://www.stlcc.edu/Continuing-Education/Catalogs-and-Brochures.html"><span>Catalogs &amp; Brochures</span></a></li>
+      <li><a href="http://www.stlcc.edu/Continuing-Education/General-Information.html"><span>General Information</span></a></li>
+      <li><a href="http://www.stlcc.edu/Workforce-Solutions/"><span>Workforce Solutions</span></a></li>
+      <li class="last"><a href="http://www.stlcc.edu/Continuing-Education/Contact.html"><span>Contact Us</span></a></li>
+    </ul>
+  </li>
+  <li style="width:166px"><a class="bg" href="http://www.stlcc.edu/Workforce-Solutions/">Workforce Solutions</a>
+    <ul style="width: 200px;">
+<!--[if lte IE 6.5]><iframe src="../Blank.html"></iframe><![endif]-->
+      <li><a href="http://www.stlcc.edu/Workforce-Solutions/Corporate-Services/"><span>Corporate Services</span></a></li>
+      <li><a href="http://www.stlcc.edu/Workforce-Solutions/Community-Services/"><span>Community Services</span></a></li>
+      <li><a href="http://www.stlcc.edu/Continuing-Education/"><span>Continuing Education</span></a></li>
+	  <li><a href="http://www.stlcc.edu/Workforce-Solutions/MoSTEMWINs/"><span>MoSTEMWINs</span></a></li>
+	  <li><a href="http://www.stlcc.edu/Workforce-Solutions/MRTDL/"><span>MRTDL</span></a></li>
+      <li><a href="http://www.stlcc.edu/Workforce-Solutions/Accelerated-Job-Training/Index.html"><span>Accelerated Job Training</span></a></li>
+      <li><a href="http://www.stlcc.edu/Workforce-Solutions/St-Louis-Workforce/"><span>State of the St. Louis Workforce</span></a></li>
+      <li><a href="http://www.stlcc.edu/CorporateCollege/"><span>Corporate College</span></a></li>
+      <li><a href="http://workforcesolutions.stlcc.edu"><span>Workforce Solutions Blog</span></a></li>
+      <li><a href="http://www.stlcc.edu/Podcasts/business-training/"><span>Podcasts</span></a></li>
+      <li class="last"><a href="http://www.stlcc.edu/Workforce-Solutions/Contact.html"><span>Contact Us</span></a></li>
+    </ul>
+  </li>
+  <li style="width:158px"><a class="bg" href="http://www.stlcc.edu/Student_Resources/">Student Resources</a>
+    <ul style="width: 199px;">
+<!--[if lte IE 6.5]><iframe src="../Blank.html"></iframe><![endif]-->
+      <li><a href="http://www.stlcc.edu/Student_Resources/Academic_Resources/"><span>Academic Resources</span></a></li>
+      <li><a href="http://www.stlcc.edu/Student_Resources/Counseling/"><span>Counseling</span></a></li>
+      <li><a href="http://www.stlcc.edu/Student_Resources/Degree_Audit/"><span>Degree Audit</span></a></li>
+      <li><a href="http://www.stlcc.edu/Student_Resources/Service_Learning/"><span>Service Learning</span></a></li>
+      <li><a href="http://www.stlcc.edu/Student_Resources/Campus_Services/"><span>Campus Services</span></a></li>
+      <li><a href="http://www.stlcc.edu/Student_Resources/Policies_and_Procedures/"><span>Policies and Procedures</span></a></li>
+      <li><a href="http://www.stlcc.edu/Student_Resources/Campus_Life/"><span>Campus Life and Athletics</span></a></li>
+      <li><a href="http://www.stlcc.edu/Student_Resources/Bookstores.html"><span>Bookstores</span></a></li>
+      <li><a href="http://www.stlcc.edu/Student_Resources/Career_and_Employment_Services/"><span>Career and Employment Services</span></a></li>
+      <li><a href="http://www.stlcc.edu/Student_Resources/Transcripts.html"><span>Transcripts</span></a></li>
+      <li><a href="http://www.stlcc.edu/Student_Resources/Verification.html"><span>Enrollment or Degree Verification</span></a></li>
+      <li><a href="http://www.stlcc.edu/disAbility/Index.html"><span>Disability Information</span></a></li>
+      <li><a href="http://www.stlcc.edu/Student_Resources/Student-Assistance-Program/"><span>Students Assistance Program</span></a></li>
+      <li><a href="http://www.stlcc.edu/Student_Resources/African-American_Male/"><span>African-American Male Initiative</span></a></li>
+      <li><a href="http://www.stlcc.edu/Student_Resources/Graduation/"><span>Graduation Information</span></a></li>
+      <li class="last"><a href="http://www.stlcc.edu/Student_Resources/General_Information.html"><span>General Information</span></a></li>
+    </ul>
+  </li>
+	<li style="width:101px"><a class="bg" href="http://www.stlcc.edu/Campuses/">Campuses</a>
+	<ul style="width: 120px;">
+		<li><a href="http://www.stlcc.edu/FV/"><span>Florissant Valley</span></a></li>
+		<li><a href="http://www.stlcc.edu/FP/"><span>Forest Park</span></a></li>
+		<li><a href="http://www.stlcc.edu/MC/"><span>Meramec</span></a></li>
+		<li><a href="http://www.stlcc.edu/WW/"><span>Wildwood</span></a></li>
+		<li><a href="http://www.stlcc.edu/Distance_Learning/"><span>Online</span></a></li>
+		</ul>
+        </li>
+	<li style="width:92px"><a class="bg" href="http://www.stlcc.edu/Libraries/">Libraries</a>
+	<ul style="width: 150px;">
+		<!--[if lte IE 6.5]><iframe src="../Blank.html"></iframe><![endif]-->
+		<li><a href="http://www.stlcc.edu/Libraries/mission.html"><span>Mission and Collections</span></a></li>
+		<li><a href="http://www.stlcc.edu/Libraries/hours.html"><span>Hours and Locations</span></a></li>
+		<li><a href="https://www.stlcc.edu/Libraries/SSL/Ask.asp"><span>Need Help?</span></a></li>
+		<li><a href="http://guides.stlcc.edu/newmat"><span>What's New</span></a></li>
+<!--		<li><a href="http://guides.stlcc.edu/one_book" target="_blank"><span>One Book One College</span></a></li>  -->
+	</ul>
+	</li>
+	<li id="right" style="width:93px"><a class="bg" href="http://www.archersathletics.com/" target="_blank">Athletics</a>
+	</li>
+</ul>
+<script type="text/javascript">sfHover();</script><a name="skipheader" title="End of header navigation."></a>
+
+  
+  <div id="mainBodyOuter">
+    <div id="mainBody"><a name="skipnav" title="Beginning of page content."></a>
+
+
+
+
+<div id="subNavCol"><a href="#skipsection"><img src="../Images/Template/clear.gif"
+        height="0" width="0" class="skipnav"
+        alt="Skip section links"/></a><a href="https://selfservice.stlcc.edu:9199/SLCC/bwskalog.p_disploginnew"
+	class="applyLink" title="Apply online via Banner Selfservice" target="_blank"><img width="250" height="43" border="0" src="../Images/ApplyNow.jpg" alt="Apply Online via Banner Selfservice" /></a><h2><a href="http://www.stlcc.edu/Courses/Index.asp">Course Descriptions</a></h2><ul class="subNav">
+
+  <li>					
+					<a href="About.html">About the Descriptions</a>
+			</li>
+    
+
+  
+
+  <li>					
+					<a href="Reading_Proficiency.html">Reading Proficiency</a>
+			</li>
+    
+
+  
+
+  <li>					
+					<a href="MSR.html">Missouri State Requirement</a>
+			</li>
+    
+
+  
+
+  <li>					
+					<a href="Levels.html">Course Levels</a>
+			</li>
+    
+
+  
+
+  <li>					
+					<a href="Hours.html">Course Hours</a>
+			</li>
+    
+
+  </ul>
+<div id="divQuickLinks">
+	<img src="../Images/QuickLinks.gif" alt="Quick Links to Relevant Information" width="230" height="62" border="0" />
+	<ul class="ulLinks1">
+	    <li>
+			<A class="" title="Link to the class schedules page." href="../Admissions_and_Registration/Class_Schedules/index.html" target=_self>Class Schedules</A>
+				
+		</li>
+</ul></div><a name="skipsection"></a>
+</div>
+<!-- Breadcrumb navigation -->
+<a href="#skipsubsection"><img src="../Images/Template/clear.gif"
+	height="0" width="0" class="skipnav" alt="Skip sub-section links"/></a><span class="breadcrumbs"><a href="/">STLCC Home</a> &#187; <a href="/Courses/Index.asp">Course Descriptions</a> &#187; <a href="/Courses/Index.asp?subject=clt">Clinical Laboratory Technology</a> &#187; <strong>Clinical Practice II</strong></span><div id="contentCol"><a name="skipsubsection"></a><div class="contentColInner">
+    <a name="skipnav"></a>
+    <img alt="Course Catalog Cover Picture"  border="0" class="" height="298" hspace="0" src="http://www.stlcc.edu/Media_Library/Photo_Library/Admissions_Registration/Catalog-cover.jpg" vspace="0px" width="230"/>
+
+<!-- added for "Changes" campaign  -->
+<!-- removed include file as it creates a conflict. -->
+<!-- End Changes Campaign -->
+		
+		</div></div>
+			<div id="mainContent">
+				
+<table cellpadding="0" cellspacing="0" border="0">
+<tr valign="TOP"><td><strong>CLT:207</strong></td><td><strong>Clinical Practice II</strong></td><td align="RIGHT"><strong>4</strong></td></tr><tr><td colspan="3"><br /><p>A continuation of CLT 202. Twenty-four hours clinical practice each week in hospital or private laboratories. Prerequisites: CLT 202 and <a href="/Courses/Reading_Proficiency.html" title="Link to details about the reading proficiency requirement.">Reading Proficiency</a>.</p>
+</td></tr>
+</table>
+
+		
+<script language="JavaScript1.1" type="text/javascript"><!--
+	if (history.length > 1) { document.write('<p style="font-size: 80%"><a href="#" onClick="history.back(); return false;">BACK</a></p>') }
+// -->
+</script>
+<noscript></noscript>
+</div>
+
+      <div style="clear:both;"></div>
+    </div>        
+  </div>
+
+    </div>
+    
+	</div><!-- /pageOuter -->
+    <!-- Footer -->
+    <div id="footer">
+	<div class="center">
+		<div class="footer-item first">
+			<h4><a href="http://m.stlcc.edu/" title="Link to STLCC mobile site.">Mobile</a></h4>
+		</div>
+		<div class="footer-item">
+			<h4><a href="https://jobs.stlcc.edu/">Employment</a></h4>
+		</div>
+		<div class="footer-item" style="border-right:none">
+			<ul>
+                            <li><a href="http://www.stlcc.edu/Main/Contact-Us.html">Contact Us</a></li>
+                            <li>- or -</li>
+                            <li><a href="https://selfservice.stlcc.edu:9199/SLCC/bwskwpro.P_ChooseProspectType">Request<br />Information</a></li>
+			</ul>
+                        
+		</div>
+		<div class="footer-item" style="border-left:1px solid #777;text-align:left;">
+			<h4>Compliance and Policies</h4>
+			<ul>
+				<li><a href="http://www.stlcc.edu/Student_Resources/Policies_and_Procedures/ConsumerInformation.html"><span>Consumer Information</span></a></li>
+				<li><a href="http://www.stlcc.edu/About/Diversity_at_STLCC.html"><span>Diversity</span></a></li>
+				<li><a href="http://www.stlcc.edu/disAbility/"><span>Employee Disability</span></a></li>
+				<li><a href="http://www.stlcc.edu/Legal/"><span>Legal Disclaimer</span></a></li>
+				<li><a href="http://www.stlcc.edu/Student_Resources/Policies_and_Procedures/ConsumerInformation.html"><span>Students Need2Know</span></a></li>
+				<li><a href="http://www.stlcc.edu/Non_Discrimination/"><span>Non-Discrimination Statement</span></a></li>
+				<li><a href="http://www.stlcc.edu/Student_Resources/Policies_and_Procedures/"><span>Policies and Procedures</span></a></li>
+				<li><a href="http://www.stlcc.edu/messages/Public_Use_of_Computer_Policy.html"><span>Public Access Computer Guidelines</span></a></li>
+				<li><a href="http://www.stlcc.edu/Legal/Accommodations_Statement.html"><span>Disability Accommodations</span></a></li>
+                <li><a href="https://www.stlcc.edu/apps/SH_Tutorial/index.asp?p=1040"><span>Guidelines for Investigation and<br />Determination of Complaints<br />Involving Sexual Misconduct</span></a></li>
+			</ul>
+		</div>
+		<div class="footer-item" style="text-align:left">
+			<h4>Emergency Info</h4>
+			<ul>
+				<li><a href="http://www.stlcc.edu/Student_Resources/Policies_and_Procedures/Closing_Procedures.html"><span>Campus emergency procedures</span></a></li>
+				<li>Police by Location
+					<ul>
+						<li><a href="#na"><span>Cosand Center</span></a></li>
+						<li><a href="http://www.stlcc.edu/FV/Campus_Police/"><span>Florissant Valley</span></a></li>
+						<li><a href="http://www.stlcc.edu/FP/Campus_Police/"><span>Forest Park</span></a></li>
+						<li><a href="http://www.stlcc.edu/MC/Campus_Police/"><span>Meramec</span></a></li>
+						<li><a href="http://www.stlcc.edu/WW/Campus_Police/"><span>Wildwood</span></a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+		<div class="footer-item">
+			<h4><a href="http://www.stlcc.edu/Maps/">Maps</a></h4>
+		</div>
+		<div class="footer-item last">
+			<h4><a href="http://assistive.usablenet.com/tt/referrer">Text Only</a></h4>
+		</div>
+		<div id="footer-copy" class="end">
+			<div class="copy">&copy; 2015
+			St. Louis Community College</div>
+		</div>
+	</div>
+</div><!--/footer-->
+
+    
+  </div>
+<!-- Modified: 2011-09-08 02:01 -->
+</body>
+</html>

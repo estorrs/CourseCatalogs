@@ -1,0 +1,9 @@
+Erik Storrs
+
+Three insitution's web pages were scraped for this project and later used to train a model to predict viable transfer courses.  The following is a description of the methodology used to scrape these web pages.  
+
+SLU: The transform_catelog.sh script in the slu folder is a simple script that cleans up the slu course catelog into the format I needed.  This format was course label \t course title \t course description. 
+
+STCHAS: The process for Saint Charles Community College was the exact same as for SLU.  
+
+STLCC: The process for Saint Louis Community College was more complicated.  Instead of all course titles and descriptions being located on the same page, the course catelog was spread out across a variety of pages.  The root page had links to the individual subject pages.  Then each subject page had a link to each individual course description and title.  In order to solve this problem I used meta-programming.  First, I wrote a script that gathered all the links from the root page to to the subject pages and transform those links into wget commands.  Then I ran that script to get the html for all the subject pages.  Then I wrote another script to take all the links from the subject pages to the course pages and turned those links into wget commands.  Then I ran that script to get all the course pages.  Then from those course pages I wrote a script that pulled out all the course titles and information I needed and transformed the text to the format I needed. 
